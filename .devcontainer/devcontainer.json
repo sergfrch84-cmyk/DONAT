@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fundraiser for Laptop</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f7f7;
+      color: #333;
+      text-align: center;
+      padding: 40px;
+    }
+    .container {
+      background: #fff;
+      max-width: 550px;
+      margin: auto;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+      margin-top: 15px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .btn {
+      display: inline-block;
+      padding: 12px 24px;
+      margin-top: 20px;
+      background-color: #0057b7;
+      color: white;
+      text-decoration: none;
+      font-size: 1.1em;
+      border-radius: 8px;
+    }
+    .btn:hover {
+      background-color: #004a9f;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Donation â€” for study and work</h1>
+    <h1>Glory to Ukraine!</h1>
+
+    <h2>Goal: Gaming Laptop ASUS TUF Gaming FA506NC-HN068</h2>
+  
+    <p>Price: <strong>32,999â‚´</strong></p>
+
+    <a class="btn" href="https://allo.ua/ua/products/notebooks/noutbuk-igrovoj-asus-tuf-gaming-fa506nc-hn068-90nr0jf7-m00830.html" target="_blank">
+      View on Allo
+    </a>
+
+    <a class="btn" href="https://www.paypal.com/donate/?business=sergfrch84@gmail.com" target="_blank">
+      Donate via PayPal
+    </a>
+
+    <p>Every contribution brings us closer to the goal ðŸ’™ðŸ’›</p>
+    <h1>Together to victory ðŸ‡ºðŸ‡¦</h1>
+  </div>
+</body>
+</html>
